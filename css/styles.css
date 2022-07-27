@@ -1,3 +1,22 @@
-h1 {
+body {
+  background: lightblue;
+}
+
+h1,
+p {
   text-align: center;
+  color: black;
+}
+.email {
+  display: block;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: green;
 }
